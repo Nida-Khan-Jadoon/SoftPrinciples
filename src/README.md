@@ -24,3 +24,5 @@ The payment system without polymorphism creates separate classes for each paymen
    ```bash
    git clone <repository-link>
    cd <repository-folder>
+For a detailed explanation of both approaches, watch the video:
+https://drive.google.com/file/d/1mDVzPQm21_uEo3xUiUF4F2ywA8-uvJoP/view?usp=sharing
